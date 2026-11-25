@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/PlatformIO/Projects/firmware/include",
+                "${workspaceFolder}/PlatformIO/Projects/firmware/src",
+                "${workspaceFolder}/**",
+                "C:/Users/ASUS/.platformio/packages/framework-arduinoespressif32/cores/esp32",
+                "C:/Users/ASUS/.platformio/packages/framework-arduinoespressif32/libraries",
+                "C:/Users/ASUS/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}

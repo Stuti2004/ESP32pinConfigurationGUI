@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../espgui"
+		},
+		{
+			"name": "firmware",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
